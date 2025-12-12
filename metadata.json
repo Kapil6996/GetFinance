@@ -1,0 +1,5 @@
+{
+  "name": "StudentFinance OS",
+  "description": "A comprehensive finance management tool for students to track expenses, manage budgets like a spreadsheet, and receive AI-powered financial advice.",
+  "requestFramePermissions": []
+}
